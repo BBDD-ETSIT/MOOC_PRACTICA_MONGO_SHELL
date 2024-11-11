@@ -14,8 +14,8 @@
     "info": {
         "githubURL": "BBDD-ETSIT/MOOC_PRACTICA_MONGO_SHELL",
         "serverUrl": "https://moocbot.dit.upm.es/",
-        "courseId": "1521",
-        "assignmentId": "877"
+        "courseId": "127",
+        "assignmentId": "6"
     },
     "repository": {
         "type": "git",
@@ -23,7 +23,7 @@
         "directory": "client"
     },
     "dependencies": {
-        "autocorector": "^3.1.6",
+        "autocorector": "^3.5.0",
         "mongoose": "^6.0.13"
     }
 }
